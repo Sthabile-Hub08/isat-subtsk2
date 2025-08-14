@@ -1,0 +1,3 @@
+•	Added decimalToHex() to output uppercase hex.
+•	Added demoConversion() to generate a random number (0–99) and show its binary.
+•	Added menu options 4 and 5.
