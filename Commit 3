@@ -1,0 +1,3 @@
+•	Added binaryToDecimal() with validation for only 0/1.
+•	Added hexToDecimal() with validation for 0–9 and A–F.
+•	Added menu options 2 and 3.
